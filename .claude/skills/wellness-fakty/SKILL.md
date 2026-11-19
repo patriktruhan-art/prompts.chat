@@ -30,8 +30,9 @@ Overené na www.privatewellnessclub.sk dňa 19. 11. 2026. Pred zverejnením ceny
 | 2 osoby | 65 € | 120 € |
 | 3 až 4 osoby | 95 € | 150 € |
 
-## Pozor, nezrovnalosti
-- Ubytovanie: aktuálny web ho NEUVÁDZA. Instagram a Facebook bio stále píšu "privátny wellness s ubytovaním". Ubytovanie, raňajky ani VIP balík (prosecco, masky, výzdoba) neponúkaj, kým to majiteľ nepotvrdí.
+## Čo NEponúkame
+- **Ubytovanie sa už neponúka** (potvrdil majiteľ 19. 11. 2026). Nespomínaj ubytovanie, nocľah, raňajky, check-in ani VIP balík s ubytovaním. Staré ponuky na zľavových portáloch a staré príspevky s ubytovaním už neplatia.
+- Ak sa hosť spýta na ubytovanie, zdvorilo odpovedz, že ubytovanie už neposkytujeme, a ponúkni 180-minútový vstup.
 - Kapacita: cenník pokrýva 2 až 4 osoby. Väčšiu skupinu nesľubuj, odkáž na telefón.
 
 ## Dôkazy, ktoré smieš použiť

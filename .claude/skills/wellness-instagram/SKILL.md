@@ -36,6 +36,6 @@ Najprv načítaj skill `wellness-fakty`.
 Valentín, Vianoce a darčekové poukazy, výročia, zimné večery, Deň matiek, rozlúčka so slobodou (overiť kapacitu).
 
 ## Pravidlá
-- Ceny len z `wellness-fakty`. Ubytovanie a VIP balík nespomínaj, kým ich majiteľ nepotvrdí.
+- Ceny len z `wellness-fakty`. Ubytovanie sa už neponúka, nikdy ho nespomínaj.
 - Žiadne zdravotné tvrdenia ("lieči", "detox").
 - Nikdy nič nezverejňuj sám. Odovzdaj text na skopírovanie.

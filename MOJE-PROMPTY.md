@@ -25,4 +25,4 @@ Instagram pre Shopu riešia samostatné skills v Claude účte (shopa-ig-pravidl
 
 ## Údržba
 - Ceny wellnessu overené 19. 11. 2026, ceny Shopy 26. 10. 2026. Pri zmene uprav `wellness-fakty` alebo `shopa-fakty`.
-- Ubytovanie a VIP balík wellnessu nie sú na aktuálnom webe; doplň ich do `wellness-fakty`, ak ich znova ponúkaš.
+- Wellness už neponúka ubytovanie (potvrdené 19. 11. 2026). Ak sa to zmení, uprav `wellness-fakty`.
